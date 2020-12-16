@@ -28,9 +28,10 @@ namespace PrimeNos
                 }
 
                 if (ctr == 0 && num != 1)
-                    Console.Write("{0} ", num);
+                    Console.Write("{0} ", num); 
             }
             Console.Write("\n");
+            
         }
     }
     }
