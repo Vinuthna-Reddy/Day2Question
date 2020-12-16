@@ -1,0 +1,7 @@
+C:\Users\Asri\source\repos\PrimeNos\PrimeNos\bin\Debug\PrimeNos.exe.config
+C:\Users\Asri\source\repos\PrimeNos\PrimeNos\bin\Debug\PrimeNos.exe
+C:\Users\Asri\source\repos\PrimeNos\PrimeNos\bin\Debug\PrimeNos.pdb
+C:\Users\Asri\source\repos\PrimeNos\PrimeNos\obj\Debug\PrimeNos.csprojAssemblyReference.cache
+C:\Users\Asri\source\repos\PrimeNos\PrimeNos\obj\Debug\PrimeNos.csproj.CoreCompileInputs.cache
+C:\Users\Asri\source\repos\PrimeNos\PrimeNos\obj\Debug\PrimeNos.exe
+C:\Users\Asri\source\repos\PrimeNos\PrimeNos\obj\Debug\PrimeNos.pdb
